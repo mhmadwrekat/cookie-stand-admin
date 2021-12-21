@@ -14,6 +14,9 @@
 ---
 ---
 ---
+[![Hero Icons](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://heroicons.com/)
+
+---
 ---
 ## Next.js + Tailwind CSS Example
 
