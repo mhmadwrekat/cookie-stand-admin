@@ -1,9 +1,6 @@
 ## Cookie Stand Admin
 
 ---
-***[Deploy .....](https://cookie-stand-admin-sooty.vercel.app/)***
-
----
 ***[Pull Request 1 .....](https://github.com/mhmadwrekat/cookie-stand-admin/pull/1)***
 
 ---
