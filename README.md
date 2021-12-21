@@ -1,10 +1,13 @@
 ## Cookie Stand Admin
 
 ---
-***[Pull Request .....](https://github.com/mhmadwrekat/cookie-stand-admin/pull/1)***
+***[Deploy .....](https://cookie-stand-admin-sooty.vercel.app/)***
 
 ---
-***[Deploy .....](https://cookie-stand-admin-sooty.vercel.app/)***
+***[Pull Request 1 .....](https://github.com/mhmadwrekat/cookie-stand-admin/pull/1)***
+
+---
+***[Pull Request 2 .....](https://github.com/mhmadwrekat/cookie-stand-admin/pull/2)***
 
 ---
 ---

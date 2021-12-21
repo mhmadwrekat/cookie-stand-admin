@@ -1,11 +1,13 @@
-import React, { Component } from 'react'
-class header extends Component {
-    render() {
-        return (
-            <div className='py-5 pl-4 bg-emerald-500' >
-            <h1 className='font-sans text-4xl font-medium'>Cookie Stand Admin</h1>
-            </div>
-        )
-    }
+import React from 'react'
+import Link from 'next/link'
+const header = () => {
+    return (
+        <div className='py-5 pr-4 bg-emerald-500' >
+            <Link href="/component/overView">
+                <button className='float-right w-1/12 font-medium bg-white rounded-full h-9'>Over View</button>
+            </Link>
+            <h1 className='pl-4 font-sans text-4xl font-medium'>Cookie Stand Admin</h1>
+        </div>
+    )
 }
 export default header
