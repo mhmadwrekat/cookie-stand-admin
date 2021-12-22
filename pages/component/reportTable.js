@@ -1,5 +1,6 @@
 import React from 'react'
 import Footer from './footer'
+//rounded-lg
 const reportTable = (props) => {
     return (
         <>

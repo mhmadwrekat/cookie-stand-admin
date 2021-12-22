@@ -1,16 +1,13 @@
-import Head from 'next/head'
 import CookieStandAdmin from './component/CookieStandAdmin'
+import LoginForm from './component/LoginForm'
+//<CookieStandAdmin />
+//<LoginForm/>
 const Home = () => {
   return (
-    <div className="">
-      <Head>
-        <title>Cookie Stand Admin</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <main className="">
-        <CookieStandAdmin />
-      </main>
-    </div>
+    <>
+  <CookieStandAdmin />
+
+    </>
   )
 }
 export default Home
