@@ -1,5 +1,4 @@
 import React from 'react'
-import Footer from './footer'
 import Link from 'next/link'
 const overView = () => {
     return (
@@ -11,7 +10,6 @@ const overView = () => {
                 <h1 className='pl-4 font-sans text-4xl font-medium'>Cookie Stand Admin</h1>
             </div>
             <p className='p-10 text-5xl font-medium text-center'>Over View Comming Soon......!</p>
-            <Footer/>
         </>
     )
 }

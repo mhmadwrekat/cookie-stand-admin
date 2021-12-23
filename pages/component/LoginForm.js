@@ -1,5 +1,4 @@
 import {React, useState} from 'react'
-import Footer from './footer'
 import Header from './header'
 const LoginForm = () => {
     const [click , setClick ] = useState(false);
@@ -30,7 +29,6 @@ const LoginForm = () => {
                 </div>
             </form>
         </div>
-        <Footer/>
         </>
     )
 }
