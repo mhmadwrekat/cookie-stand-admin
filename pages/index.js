@@ -1,13 +1,13 @@
-import CookieStandAdmin from './component/CookieStandAdmin'
-import LoginForm from './component/LoginForm'
+
+import CookieStandAdmin from './component/CookieStandAdmin';
 //<CookieStandAdmin />
 //<LoginForm/>
 const Home = () => {
   return (
     <>
-  <CookieStandAdmin />
+      <CookieStandAdmin />
 
     </>
-  )
+  );
 }
 export default Home
